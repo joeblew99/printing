@@ -2,6 +2,8 @@
 
 Pipeline:  HTML --> FL Widgets --> PDF Widgets --> PDF --> Printer
 
+NOTE: repo is a mess right now :) Doing experiemnts.
+
 Whats the big deal ?
 
 For Mobile and Desktop.
@@ -12,12 +14,14 @@ Its good but just needs a bit more:
 
 Flutter
 - Choose Printer before PDF output.
-	- Is the wrong way around currently.
-- Parametrics of Flutter Widgets
+	- Is the wrong way around currently it seems.
+- Parametrics for Flutter Widgets
 	- When you make a flutter widget you have to provide the PDF Rendering for that Widget. The Standard Flutter Rendering tree is then used for Screen and Printing - its nice.
 	- But Layout needs work. Orientation and Sizes, just like we have different Screen sizes, we have different Paper sizes.
+- Make examples
+	- Test it out.
 
-Desktop
+Desktop Integration
 
 - Use Google Cloud Connector lib. 
 	- https://github.com/google/cloud-print-connector

@@ -1,0 +1,7 @@
+{
+  "local_printing_enable": true,
+  "cloud_printing_enable": false,
+  "fcm_notifications_enable": false,
+  "log_level": "INFO",
+  "log_file_name": "/tmp/cloud-print-connector"
+}
