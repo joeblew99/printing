@@ -1,8 +1,18 @@
 # Pdf and printing
 
-Pipeline:  HTML --> FL Widgets --> PDF Widgets --> PDF --> Printer
+## Status
 
-NOTE: repo is a mess right now :) Doing experiemnts.
+Planning and getting approach together with code.
+Please feel free to add any tips, info you can see or critique the approach. 
+
+NOTE: repo is a mess right now :) Doing experiments.
+
+## Pipeline
+
+HTML --> FL Widgets --> PDF Widgets --> PDF --> Printer
+
+
+# Notes 
 
 Whats the big deal ?
 
