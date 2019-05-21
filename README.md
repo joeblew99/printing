@@ -1,8 +1,11 @@
-# Pdf and printing
+# Flutter PDF & Printing for Mobile and Desktop
+
+
 
 ## Status
 
 Planning and getting approach together with code.
+
 Please feel free to add any tips, info you can see or critique the approach. 
 
 NOTE: repo is a mess right now :) Doing experiments.
